@@ -17,6 +17,7 @@ navbar-links:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
   Author's home: "https://deanattali.com"
+  LinkedIn: "https://www.linkedin.com/in/kayla-coghlan-0726b6148/"
 
 # --- Logo --- #
 
@@ -44,7 +45,7 @@ social-network-links:
   twitter: daattali
   rss: true
 #  reddit: yourname
-#  linkedin: daattali
+#  linkedin: yourname
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78

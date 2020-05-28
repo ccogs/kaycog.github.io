@@ -19,7 +19,7 @@ navbar-links:
   Medium: "https://medium.com/@kaylacoghlan"
   LinkedIn: "https://www.linkedin.com/in/kayla-coghlan-0726b6148/"
   
-  paginate_path: "/blog/page:num/"
+  Blog: "/blog/page:num/"
 
 # --- Logo --- #
 

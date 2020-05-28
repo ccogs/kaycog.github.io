@@ -18,6 +18,8 @@ navbar-links:
 #    - Learn markdown: "https://www.markdowntutorial.com/"
   Medium: "https://medium.com/@kaylacoghlan"
   LinkedIn: "https://www.linkedin.com/in/kayla-coghlan-0726b6148/"
+  
+  paginate_path: "/blog/page:num/"
 
 # --- Logo --- #
 

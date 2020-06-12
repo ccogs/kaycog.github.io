@@ -1,16 +1,29 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: About Me
+subtitle: Resume and Experience 
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Kayla Coghlan. I enjoy the following hobbies:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- Swing Dancing 
+- Billiards
+- Yoga
 
-What else do you need?
 
-### my history
+### Education
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+**Liberty University 2016 - 2020**
+
+  B.S. Business Administration: Marketing Analytics
+  B.S. Business Administration: Finance
+  
+Senior Class President 2018 - 2019  
+
+### Work Experience
+
+Lenovo Accelerated Sales Rotation (LASR) June 2020 - Present
+
+Bank of America Merrill Lynch June 2019 - August 2019
+
+Federal Bureau of Investigation (FBI) Honor's Intern June 2018 - August 2018

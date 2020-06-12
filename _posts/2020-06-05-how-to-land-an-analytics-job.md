@@ -15,7 +15,7 @@ Helbling has served as a board member for the Digital Analytics Association sinc
 
 As part of the JOIN Program, Jen Yacenda has hosted weekly Q&A Zoom sessions focused on helping analysts polish their resumes, learn how to negotiate offers, and fine tune their LinkedIn profiles. This week, I had the privilege to attend one of these meetings. Here is what I learned from Michael Helbling:
 
-###Negotiating Offers 
+### Negotiating Offers 
 
 By the time a company extends you an offer, they are already excited about you. At this point, they believe in the value that you can add to the team.
 
@@ -33,7 +33,7 @@ Negotiation is a skill. Don’t get stuck on a specific outcome. Explain to your
 Make sure you’ve done some research before asking for something. It’s good to enter this conversation with a number in mind. A great way to approach this is by telling your manager that you’ve seen others in similar roles to you receive compensation at a certain level. Explain that you would like to be paid similarly, then explain your value and why you should be compensated accordingly.
 From a company perspective, getting someone to accept an offer is important, but retaining that employee is even harder.
 
-###Tips for Landing an Analytics Role:
+### Tips for Landing an Analytics Role:
 
 **Certifications**
 

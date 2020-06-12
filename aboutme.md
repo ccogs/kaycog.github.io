@@ -16,6 +16,7 @@ My name is Kayla Coghlan. I enjoy the following hobbies:
 **Liberty University 2016 - 2020**
 
   B.S. Business Administration: Marketing Analytics
+  
   B.S. Business Administration: Finance
   
 Senior Class President 2018 - 2019  

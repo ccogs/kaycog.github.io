@@ -20,12 +20,20 @@ My name is Kayla Coghlan. I enjoy the following hobbies:
   B.S. Business Administration: Finance
   
   
-    - Senior Class President 2018 - 2019  
+  - Senior Class President 2018 - 2019  
 
 ### Work Experience
 
-Lenovo Accelerated Sales Rotation (LASR) Program (June 2020 - Present)
+Lenovo Accelerated Sales Rotation (LASR) Program 
 
-Bank of America Merrill Lynch (June 2019 - August 2019)
+(June 2020 - Present)
 
-Federal Bureau of Investigation (FBI) Honor's Intern June (2018 - August 2018)
+
+Bank of America Merrill Lynch 
+
+(June 2019 - August 2019)
+
+
+Federal Bureau of Investigation (FBI) Honor's Intern June 
+
+(2018 - August 2018)

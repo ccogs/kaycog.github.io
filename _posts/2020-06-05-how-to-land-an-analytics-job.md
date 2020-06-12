@@ -7,7 +7,7 @@ cover-img: cytonn-photography-n95VMLxqM2I-unsplash.jpg
 tags: [work, analytics]
 comments: true
 ---
-
+Photo By / Cytonn Photography on Unsplash
 
 As a response to the global pandemic and its effect on the job market, Michael Helbling launched the JOIN Program in March. The program was designed as a way to unite analysts and data scientists and help secure jobs during the pandemic.
 
@@ -55,4 +55,4 @@ Volunteer work is great if used intentionally. People have different motivations
 
 Additionally, volunteering is a useful category to add to your resume. Show how your volunteer work produced a certain result and then explain how you can provide similar positive outcomes to the company you are interviewing with.
 
-This article was originally published on LinkedIn.
+This article was originally published on [LinkedIn] (https://www.linkedin.com/pulse/how-land-analytics-job-from-resume-offer-negotiation-advice-coghlan/) and also available on [Medium] (https://levelup.gitconnected.com/how-to-land-an-analytics-job-from-the-resume-to-the-offer-a132cd1601f).

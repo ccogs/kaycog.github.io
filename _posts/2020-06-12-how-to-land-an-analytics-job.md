@@ -2,7 +2,11 @@
 layout: post
 title: How to Land an Analytics Job from the Resume to the Offer
 subtitle: Negotiation Advice from Michael Helbling's JOIN Program 
-cover-img: https://unsplash.com/photos/n95VMLxqM2I
+cover-img: cytonn-photography-n95VMLxqM2I-unsplash.jpg
+caption: "Photo credit: [**Unsplash**](https://unsplash.com/photos/n95VMLxqM2I)"
+actions: 
+  - label: "More Info"
+    url: "https://unsplash.com/photos/n95VMLxqM2I"
 tags: [work, analytics]
 comments: true
 ---

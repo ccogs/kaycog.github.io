@@ -19,6 +19,7 @@ My name is Kayla Coghlan. I enjoy the following hobbies:
   
   B.S. Business Administration: Finance
   
+  
 Senior Class President 2018 - 2019  
 
 ### Work Experience

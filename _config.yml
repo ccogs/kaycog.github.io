@@ -13,7 +13,7 @@ author: Kayla Coghlan
 
 navbar-links:
   About Me: "aboutme" 
-  Photography: "photo-gallery.md"
+  Photography: "jekyll"
   # Resources:
 #    - Beautiful Jekyll: "https://beautifuljekyll.com"
 #    - Learn markdown: "https://www.markdowntutorial.com/"

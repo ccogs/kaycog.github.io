@@ -12,10 +12,8 @@ author: Kayla Coghlan
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
-  Collections:
-    photo_gallery: 
-  Photography: "photo-gallery"
+  About Me: "aboutme" 
+  Photography: "photo-gallery.md"
   # Resources:
 #    - Beautiful Jekyll: "https://beautifuljekyll.com"
 #    - Learn markdown: "https://www.markdowntutorial.com/"

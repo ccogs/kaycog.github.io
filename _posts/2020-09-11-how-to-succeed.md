@@ -57,4 +57,4 @@ Adapt: Learn the software and tools needed to succeed. Immerse yourself in the n
 
 Connect: Make an effort to establish yourself and be intentional. Don’t remain hidden behind the mute button or a disabled webcam. 
 
-This article was originally published on [LinkedIn](https://www.linkedin.com/pulse/three-things-ive-learned-after-months-working-from-home-kayla-coghlan/)  
+This article was originally published on [LinkedIn].(https://www.linkedin.com/pulse/three-things-ive-learned-after-months-working-from-home-kayla-coghlan/)  

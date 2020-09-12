@@ -68,4 +68,4 @@ Your proposed solution is going to contain flaws, but talk through them with you
 
 4. Work as a team, not as an individual.
 
-This article was initially publish on [Medium]https://medium.com/the-kickstarter/standing-out-in-a-group-case-study-interview-ea10c935e419). 
+This article was initially published on [Medium](https://medium.com/the-kickstarter/standing-out-in-a-group-case-study-interview-ea10c935e419). 

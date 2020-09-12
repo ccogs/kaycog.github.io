@@ -41,7 +41,8 @@ Yet, as my professional network grows in the virtual space, feeling connected wi
 
 Even virtually, people want to help you succeed, you just need to be willing to ask. You aren’t going to run into someone by chance, so taking initiative is crucial if you want to establish yourself. Scheduling weekly checkpoints with a mentor or co-worker is a great way to feel connected. And if you’re looking to turn a small meeting into a more personal one, turning on your camera to show new co-workers your face can make all the difference. The best advice I’ve received?
 
-If you speak during a meeting, turn on your camera. 
+"If you speak during a meeting, turn on your camera."
+
 Sending a quick note with an introduction and invite to meet can help you stand out. Plus, it will help establish your reputation as someone who is a self-starter and internally motivated. 
 
 ### Moving Forward

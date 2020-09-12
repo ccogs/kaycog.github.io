@@ -3,7 +3,7 @@ layout: post
 title: How to Succeed as a New Hire in the Virtual Envrionment 
 subtitle: Three Things I've Learned After Three Months Working From Home
 fig-caption: Photo By / Cytonn Photography on Unsplash
-cover-img: cytonn-photography-n95VMLxqM2I-unsplash.jpg
+cover-img: sven-brandsma-zIltX6n3m7w-unsplash.jpg
 tags: [work, business ]
 comments: true
 ---

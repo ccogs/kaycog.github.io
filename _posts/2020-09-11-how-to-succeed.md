@@ -13,12 +13,13 @@ Since starting at Lenovo in June, I have attended Zoom calls, Microsoft Teams me
 
 As I've started to navigate this new normal, here’s what I’ve learned about being successful in a virtual environment:
 
-1. Everyone has a different communication style. 
+### Everyone has a different communication style. 
+
 Keeping a team up to date on your progress is crucial, but perhaps even more so, is communicating it effectively. Maintaining good communication is a hallmark of any work relationship, but without face-to-face interactions in the office, it is important to be intentional about how you share information. 
 
 While some people prefer to ping messages as needs arise, others would rather participate in brief video calls. Some people like turning on their cameras during a meeting, yet others would rather not. Identify the methods for how your co-workers like to communicate, and be willing to mimic their techniques when interacting with them.
 
-Being Upfront
+**Being Upfront**
 
 Additionally, I've found that it's important to be polite, but direct about what you need. One thing I've learned over the last several months is to leave emotions out of emails. As we use Outlooks as a primary means of communication, it is so important to clearly state what you need. If you have a question—ask it. If you need to send an update on your progress, do it.
 
@@ -26,12 +27,14 @@ I have a tendency to write, read, and then reread emails a thousand times before
 
 Finally, everyone is different. Learning to embrace other communication styles early on can have a lasting impact on your professional relationships. Additionally, adjusting to other styles can help you establish a rapport where everyone is on the same page. It reduces friction and there are fewer surprises. Like always, communication is key, only now, it is even more important to do it effectively.
 
-2. Always be willing to adapt.
+### Always be willing to adapt.
+
 Priorities change, and somehow there still never seem to be enough hours in the day. I find that with regularly scheduled meetings, having dedicated time to work on projects should be a priority. However, understanding that schedules change and urgent meetings can arise will help you develop a workflow that matches the needs of today's challenges. Develop the ability to be flexible. Adjusting to last-minute changes is a characteristic that can define your success. 
 
 Second, embrace the collaborative software. There seem to be a plethora of new collaboration methods these days. Be willing to try new platforms, especially as your company transitions to a virtual means of communication. The sooner you adapt, the better equipped you will be to handle everyday communication and tasks. Learn to embrace the change. Technology is evolving and so are your company's virtual needs.
 
-3. Network. Network. Network.
+### Network. Network. Network.
+
 When applying to Lenovo, one thing that drew me to the company was its collaborative culture. I liked the idea of working in an open office space located on a campus, where I would have direct access to other departments and upper management.
 
 Yet, as my professional network grows in the virtual space, feeling connected without personal interaction takes a focused effort. Before starting, I worried that by working remotely, the collaborative aspect of the culture would be lost. However, I am so continuously impressed by the willingness of my co-workers to video chat with a new hire.
@@ -41,10 +44,12 @@ Even virtually, people want to help you succeed, you just need to be willing to 
 If you speak during a meeting, turn on your camera. 
 Sending a quick note with an introduction and invite to meet can help you stand out. Plus, it will help establish your reputation as someone who is a self-starter and internally motivated. 
 
-Moving Forward
+### Moving Forward
+
 When we do return to the office, I will have spent more time in my post-grad career working remotely than on a physical campus — something I never expected when I first went in for an interview. I look forward to writing about the transition back to office life when the time comes. I'm not sure what to expect, but the good news is, we're adapting together.
 
-But for now…
+### But for now…
+
 Communicate: Determine how your team conveys information. What is your communication style? How can you best communicate with your co-workers who might prefer a different method?
 Adapt: Learn the software and tools needed to succeed. Immerse yourself in the new ways of Teams meetings and Zoom calls. 
 Connect: Make an effort to establish yourself and be intentional. Don’t remain hidden behind the mute button or a disabled webcam. 

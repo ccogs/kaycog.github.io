@@ -51,5 +51,7 @@ When we do return to the office, I will have spent more time in my post-grad car
 ### But for now…
 
 Communicate: Determine how your team conveys information. What is your communication style? How can you best communicate with your co-workers who might prefer a different method?
+
 Adapt: Learn the software and tools needed to succeed. Immerse yourself in the new ways of Teams meetings and Zoom calls. 
+
 Connect: Make an effort to establish yourself and be intentional. Don’t remain hidden behind the mute button or a disabled webcam. 

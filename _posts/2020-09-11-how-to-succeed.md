@@ -55,3 +55,5 @@ Communicate: Determine how your team conveys information. What is your communica
 Adapt: Learn the software and tools needed to succeed. Immerse yourself in the new ways of Teams meetings and Zoom calls. 
 
 Connect: Make an effort to establish yourself and be intentional. Don’t remain hidden behind the mute button or a disabled webcam. 
+
+This article was originally published on [LinkedIn] (https://www.linkedin.com/pulse/three-things-ive-learned-after-months-working-from-home-kayla-coghlan/?trackingId=jlmbJpLLGed%2BGa5%2B1hch%2FQ%3D%3D) 

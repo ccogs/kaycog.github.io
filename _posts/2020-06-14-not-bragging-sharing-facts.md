@@ -2,7 +2,7 @@
 layout: post
 title: I'm Not Bragging, I'm Sharing Facts
 subtitle: Zynga's Michelle Del Rosario on Owning Your Work 
-cover-img: {/path/to/bragging.jpg : "Photo By / Christina @ wocintechchat.com on Unsplash"}
+cover-img: bragging.jpg : Caption
 caption: Photo By / Christina @ wocintechchat.com on Unsplash
 tags: [work, business]
 comments: true

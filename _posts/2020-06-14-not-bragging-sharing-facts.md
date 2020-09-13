@@ -2,8 +2,8 @@
 layout: post
 title: I'm Not Bragging, I'm Sharing Facts
 subtitle: Zynga's Michelle Del RAsario on Owning Your Work 
-fig-caption: Photo By / Christina @ wocintechchat.com on Unsplash
 cover-img: bragging.jpg
+fig-caption: Photo By / Christina @ wocintechchat.com on Unsplash
 tags: [work, business]
 comments: true
 ---

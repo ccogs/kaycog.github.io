@@ -20,7 +20,7 @@ My name is Kayla Coghlan. I enjoy the following hobbies:
   B.S. Business Administration: Finance
   
   
-  - Senior Class President 2018 - 2019  
+  - Senior Class Vice President 2018 - 2019  
 
 ### Work Experience
 
@@ -34,6 +34,6 @@ Bank of America Merrill Lynch
 (June 2019 - August 2019)
 
 
-Federal Bureau of Investigation (FBI) Honor's Intern June 
+Federal Bureau of Investigation (FBI) Honor's Intern 
 
-(2018 - August 2018)
+(June 2018 - August 2018)

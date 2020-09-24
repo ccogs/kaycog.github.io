@@ -1,8 +1,12 @@
 ---
-layout: photo_set
-title: Photo 1
-permalink: /photography/02_CoghlanKayla (1).jpg
-description: "An example photo gallery."
+layout: default
+images:
+  - image_path: /photography/02_CoghlanKayla (1).jpg
+    title: photo????
 ---
-
+<ul class="photo-gallery">
+  {% for image in page.images %}
+    <li><img src="{{ image.image_path }}" alt="{{ image.title}}"/></li>
+  {% endfor %}
+</ul>
 
